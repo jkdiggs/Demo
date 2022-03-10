@@ -1,2 +1,2 @@
 # Demo
-Demo site for Teddy's 1st birthday.
+Demo site for Teddy's 1st birthday party.
